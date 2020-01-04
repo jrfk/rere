@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RERE.FM on rere.fm</title>
+    <link>http://example.org/</link>
+    <description>Recent content in RERE.FM on rere.fm</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>In this podcast, two people who love radio but are not good at chatting are chatting with a single theme that came up at that time.</description>
+    </item>
+    
+    <item>
+      <title>episode</title>
+      <link>http://example.org/episode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/episode/</guid>
+      <description> EPSODE.0 EPISODE.1  </description>
+    </item>
+    
+    <item>
+      <title>Subscribe</title>
+      <link>http://example.org/subscribe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/subscribe/</guid>
+      <description>while (!deck.isInOrder()) { print &amp;lsquo;Iteration &#39; + i; deck.shuffle(); i++; }
+print &amp;lsquo;It took &#39; + i + &#39; iterations to sort the deck.&#39;; &amp;lt;h4&amp;gt;Unordered&amp;lt;/h4&amp;gt; &amp;lt;ul&amp;gt; &amp;lt;li&amp;gt;Dolor pulvinar etiam.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Sagittis adipiscing.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Felis enim feugiat.&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;h4&amp;gt;Alternate&amp;lt;/h4&amp;gt; &amp;lt;ul class=&amp;quot;alt&amp;quot;&amp;gt; &amp;lt;li&amp;gt;Dolor pulvinar etiam.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Sagittis adipiscing.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Felis enim feugiat.&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;h4&amp;gt;Ordered&amp;lt;/h4&amp;gt; &amp;lt;ol&amp;gt; &amp;lt;li&amp;gt;Dolor pulvinar etiam.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Etiam vel felis viverra.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Felis enim feugiat.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Dolor pulvinar etiam.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Etiam vel felis lorem.&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;Felis enim et feugiat.&amp;lt;/li&amp;gt; &amp;lt;/ol&amp;gt; &amp;lt;h4&amp;gt;Icons&amp;lt;/h4&amp;gt; &amp;lt;ul class=&amp;quot;icons&amp;quot;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;icon fa-twitter&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Twitter&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;icon fa-facebook&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Facebook&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;icon fa-instagram&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Instagram&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;icon fa-github&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;label&amp;quot;&amp;gt;Github&amp;lt;/span&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;h4&amp;gt;Actions&amp;lt;/h4&amp;gt; &amp;lt;ul class=&amp;quot;actions&amp;quot;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;button primary&amp;quot;&amp;gt;Default&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;button&amp;quot;&amp;gt;Default&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt; &amp;lt;ul class=&amp;quot;actions stacked&amp;quot;&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;button primary&amp;quot;&amp;gt;Default&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;#&amp;quot; class=&amp;quot;button&amp;quot;&amp;gt;Default&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt; &amp;lt;/ul&amp;gt;  &amp;lt;h4&amp;gt;Alternate&amp;lt;/h4&amp;gt; &amp;lt;div class=&amp;quot;table-wrapper&amp;quot;&amp;gt; &amp;lt;table class=&amp;quot;alt&amp;quot;&amp;gt; &amp;lt;thead&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;th&amp;gt;Name&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;Description&amp;lt;/th&amp;gt; &amp;lt;th&amp;gt;Price&amp;lt;/th&amp;gt; &amp;lt;/tr&amp;gt; &amp;lt;/thead&amp;gt; &amp;lt;tbody&amp;gt; &amp;lt;tr&amp;gt; &amp;lt;td&amp;gt;Item One&amp;lt;/td&amp;gt; &amp;lt;td&amp;gt;Ante turpis integer aliquet porttitor.</description>
+    </item>
+    
+    <item>
+      <title>store</title>
+      <link>http://example.org/store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/store/</guid>
+      <description>rere.fm goods That is currently being&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>http://example.org/support/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/support/</guid>
+      <description>coming soon&amp;hellip; Supporters program will be available in the near future.</description>
+    </item>
+    
+  </channel>
+</rss>
