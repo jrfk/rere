@@ -1,3 +1,3 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
-	url = https://gitlab.com/dspechnikov/dimension-hugo
+	url = https://github.com/dspechnikov/dimension-hugo.git
