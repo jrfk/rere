@@ -2,4 +2,7 @@ baseURL = "https://reverent-hoover-3a14e1.netlify.com/"
 languageCode = "ja"
 title = "ReRe.fm"
 theme = "dimension"
-
+[[headers]]
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
