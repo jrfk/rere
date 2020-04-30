@@ -29,9 +29,4 @@ HUGO_VERSION = "0.62.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[headers]]
-  for = "/*"
-    [headers.values]
-    Access-Control-Allow-Origin = "*"
-
 
